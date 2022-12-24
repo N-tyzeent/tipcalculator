@@ -1,12 +1,12 @@
 .tip-calculator{
   width: 90%;
-  max-width: 500px;
+  max-width: 300px;
   margin: 0 auto;
 }
 
 h1{
   color: green;
-  font-size: 45px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -16,10 +16,10 @@ h1{
 
 .calculator{
   width: 90%;
-  max-width: 500px;
+  max-width: 300px;
   background-color:  rgb(48, 48, 168);
   color: white;
-  font-size: 30px;
+  font-size: 25px;
   padding: 10%;
   border-radius: 25px;
 }
@@ -37,11 +37,11 @@ input{
 }
 
 button{
-  width: 35%;
+  width: 40%;
   border: none;
   border-radius: 15px;
   color: white;
-  font-size: 25px;
+  font-size: 20px;
   background-color: rgb(236, 46, 46);
   margin-top: 8%;
   margin-left: 16%;
