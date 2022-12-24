@@ -19,7 +19,8 @@ function App() {
 
   return (
     <div className="tip-calculator">
-      <h1>
+     <div className="tip-cal">
+     <h1>
         <span className="tip">Tip</span> Caculator
       </h1>
       <div className="calculator">
@@ -52,6 +53,7 @@ function App() {
           Caculate
         </button>
       </div>
+     </div>
     </div>
   );
 }
